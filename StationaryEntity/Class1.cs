@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace StationaryServices
+namespace StationaryEntity
 {
-    public class Util
+    public class Class1
     {
     }
 }

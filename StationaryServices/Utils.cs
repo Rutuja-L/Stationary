@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace StationaryServices
 {
-    public class StationaryLogger
+    public class Utils
     {
     }
 }

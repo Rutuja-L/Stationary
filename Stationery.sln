@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryDAL", "Stationary
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryServices", "StationaryServices\StationaryServices.csproj", "{20151D61-F584-48C6-A43E-5065E18226DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryEntity", "StationaryEntity\StationaryEntity.csproj", "{22C50199-06C7-4475-A05D-FBDCB2EB0A97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{20151D61-F584-48C6-A43E-5065E18226DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20151D61-F584-48C6-A43E-5065E18226DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20151D61-F584-48C6-A43E-5065E18226DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22C50199-06C7-4475-A05D-FBDCB2EB0A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C50199-06C7-4475-A05D-FBDCB2EB0A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C50199-06C7-4475-A05D-FBDCB2EB0A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C50199-06C7-4475-A05D-FBDCB2EB0A97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
