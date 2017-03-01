@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StationaryServices;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
@@ -14,6 +15,8 @@ namespace StationaryDAL
         public SQLDataProvider(string connString)
         {
             ConnectionString = connString;
+             //logger = new StationaryLogger();
+             StationaryLogger.Info("Connection String: " + connString);
         }
 
 
