@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryServices", "Stati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryEntity", "StationaryEntity\StationaryEntity.csproj", "{22C50199-06C7-4475-A05D-FBDCB2EB0A97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleOutPutProj", "SampleOutPutProj\SampleOutPutProj.csproj", "{1B289990-E457-469D-9274-8E45509A7DCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StationaryWeb", "StationaryWeb\StationaryWeb.csproj", "{4F20CF13-A98E-46EB-9C30-1B82CB8AA509}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{22C50199-06C7-4475-A05D-FBDCB2EB0A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22C50199-06C7-4475-A05D-FBDCB2EB0A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22C50199-06C7-4475-A05D-FBDCB2EB0A97}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1B289990-E457-469D-9274-8E45509A7DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B289990-E457-469D-9274-8E45509A7DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B289990-E457-469D-9274-8E45509A7DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B289990-E457-469D-9274-8E45509A7DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F20CF13-A98E-46EB-9C30-1B82CB8AA509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F20CF13-A98E-46EB-9C30-1B82CB8AA509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F20CF13-A98E-46EB-9C30-1B82CB8AA509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F20CF13-A98E-46EB-9C30-1B82CB8AA509}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -39,9 +39,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="Item.cs" />
+    <Compile Include="BankUnit.cs" />
+    <Compile Include="RequestEntity.cs" />
+    <Compile Include="ItemEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserEntity.cs" />
+    <Compile Include="VendorEntity.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\StationaryServices\StationaryServices.csproj">
+      <Project>{20151d61-f584-48c6-a43e-5065e18226de}</Project>
+      <Name>StationaryServices</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

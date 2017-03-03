@@ -1,0 +1,5 @@
+2017-03-01 17:22:10,623 INFO StationaryServices.StationaryLogger - Application is working
+2017-03-01 17:56:10,293 INFO StationaryServices.StationaryLogger - Application is working
+2017-03-01 17:58:37,583 INFO StationaryServices.StationaryLogger - Application is working
+2017-03-01 18:27:10,302 INFO StationaryServices.StationaryLogger - Connection String: Some Connection String
+2017-03-01 18:27:10,374 INFO StationaryServices.StationaryLogger - Application is working
